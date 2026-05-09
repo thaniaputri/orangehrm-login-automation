@@ -1,0 +1,15 @@
+{
+  "validUsername": "Admin",
+  "validPassword": "admin123",
+
+  "invalidUsername": "USer",
+  "invalidPassword": "Admin1234",
+
+  "caseUpperUsername": "ADMIN",
+  "caseWrongPasswordCase": "aDMIN123",
+
+  "usernameLeadingSpace": " Admin",
+  "usernameTrailingSpace": "Admin ",
+
+  "passwordSpecialChar": "admin123!@"
+}
